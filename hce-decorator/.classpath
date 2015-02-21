@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib-build/bcel.jar"/>
+	<classpathentry kind="lib" path="lib-build/hamcrest-core.jar"/>
+	<classpathentry kind="lib" path="lib-build/jibx-bind.jar"/>
+	<classpathentry kind="lib" path="lib-build/jibx-extras.jar"/>
+	<classpathentry kind="lib" path="lib-build/jibx-run.jar"/>
+	<classpathentry kind="lib" path="lib-build/jibx-schema.jar"/>
+	<classpathentry kind="lib" path="lib-build/jibx-tools.jar"/>
+	<classpathentry kind="lib" path="lib-build/joda-time.jar"/>
+	<classpathentry kind="lib" path="lib-build/junit.jar"/>
+	<classpathentry kind="lib" path="lib-build/log4j.jar"/>
+	<classpathentry kind="lib" path="lib-build/org.eclipse.core.contenttype.jar"/>
+	<classpathentry kind="lib" path="lib-build/org.eclipse.core.jobs.jar"/>
+	<classpathentry kind="lib" path="lib-build/org.eclipse.core.resources.jar"/>
+	<classpathentry kind="lib" path="lib-build/org.eclipse.core.runtime.jar"/>
+	<classpathentry kind="lib" path="lib-build/org.eclipse.equinox.common.jar"/>
+	<classpathentry kind="lib" path="lib-build/org.eclipse.equinox.preferences.jar"/>
+	<classpathentry kind="lib" path="lib-build/org.eclipse.jdt.core.jar"/>
+	<classpathentry kind="lib" path="lib-build/org.eclipse.osgi.jar"/>
+	<classpathentry kind="lib" path="lib-build/org.eclipse.text.jar"/>
+	<classpathentry kind="lib" path="lib-build/qdox.jar"/>
+	<classpathentry kind="lib" path="lib-build/stax-api.jar"/>
+	<classpathentry kind="lib" path="lib-build/wstx-asl.jar"/>
+	<classpathentry kind="lib" path="lib-build/xpp3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
